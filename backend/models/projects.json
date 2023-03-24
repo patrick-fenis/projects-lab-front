@@ -1,0 +1,18 @@
+
+[
+    {
+      "name": "Wall Street Oracle",
+      "live": "https://statuesque-wisp-f9cebc.netlify.app/",
+      "git": "https://github.com/patrick-fenis/WallStreetOracle.git",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Portfolio Wizard",
+      "live": "https://app.netlify.app/whatever",
+      "git": "https://github.com/patrick-fenis/Portfolio-Wizard",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
+
+
+  
