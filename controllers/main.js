@@ -4,7 +4,7 @@ const projects = require('../models/projects.json')
 const about = require('../models/about.json')
 
 
-router.get('/home', (req, res) => {
+router.get('/', (req, res) => {
     res.send('Welcome')
 })
 
