@@ -1,6 +1,6 @@
 const Footer = (props) => {
     return(
-        <h1>Footer</h1>
+        <p>Made In Ukraine</p>
     )
 }
 
